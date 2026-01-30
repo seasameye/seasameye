@@ -1,4 +1,4 @@
-### Hi 👋, I'm a Computer Science Student!
+### Hi 👋! WELCOME MY WORLD.
 
 <img width="30%" align="right" alt="Github" src="https://github.com/seasameye/seasameye/blob/main/%E7%8C%AB%E5%92%AA.png" />
 
