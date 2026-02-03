@@ -29,10 +29,16 @@ Although I’m still improving my coding skills, I’m always striving to become
 
 ---
 
-### 🔥 GitHub Streak
-<div align="center">
-<img src="https://github-readme-streak-stats.vercel.app/?user=seasameye&theme=github-dark&hide_border=true&background=ffffff&dates=0366d6&ring=0366d6&fire=ff6b6b&currStreakLabel=0366d6" alt="GitHub Streak" width="500"/>
-</div>
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/seasameye/seasameye/main/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="85%"
+  />
+</p>
+
 
 ---
 
