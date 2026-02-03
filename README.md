@@ -31,8 +31,7 @@ Although I’m still improving my coding skills, I’m always striving to become
 
 ### 🔥 GitHub Streak
 <div align="center">
- <!-- 方案1：使用 vercel.app 服务（更稳定） -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=seasameye&theme=default&hide_border=true" width="500"/>
+<img src="https://github-readme-streak-stats.vercel.app/?user=seasameye&theme=github-dark&hide_border=true&background=ffffff&dates=0366d6&ring=0366d6&fire=ff6b6b&currStreakLabel=0366d6" alt="GitHub Streak" width="500"/>
 </div>
 
 ---
