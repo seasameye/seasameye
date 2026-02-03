@@ -24,7 +24,7 @@ Although I’m still improving my coding skills, I’m always striving to become
 ### 📊 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seasameye&theme=minimal&bg_color=ffffff&color=4c566a&line=5e81ac&point=81a1c1&hide_border=true" width="800"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seasameye&theme=github&bg_color=ffffff&color=24292e&line=0366d6&point=24292e&area=true&hide_border=true" alt="GitHub Activity Graph" width="800"/>
 </div>
 
 ---
