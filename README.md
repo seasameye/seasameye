@@ -30,9 +30,8 @@ Although I’m still improving my coding skills, I’m always striving to become
 ---
 
 ### 🔥 GitHub Streak
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=seasameye&theme=default&hide_border=true" width="500"/>
+  <img src="https://streak-stats.demolab.com?user=seasameye&theme=default&hide_border=true" width="500"/>
 </div>
 
 ---
