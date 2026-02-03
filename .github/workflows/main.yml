@@ -29,4 +29,6 @@ jobs:
           user: seasameye
           template: classic
           base: header, activity, community, repositories, metadata
+          plugin_habits: no
+          plugin_activity: no
           config_timezone: Asia/Shanghai
