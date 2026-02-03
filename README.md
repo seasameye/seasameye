@@ -33,8 +33,7 @@ Although I’m still improving my coding skills, I’m always striving to become
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/seasameye/seasameye/main/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/seasameye/seasameye/main/dist/github-contribution-grid-snake.svg"
     width="85%"
   />
 </p>
