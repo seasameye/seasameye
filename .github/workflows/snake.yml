@@ -16,3 +16,5 @@ jobs:
           github_user_name: seasameye
           outputs: |
             dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
