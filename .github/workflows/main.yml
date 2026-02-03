@@ -1,44 +1,32 @@
-name: GitHub Metrics
+name: Metrics
 on:
-  # 定时触发：每小时更新一次
+  # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # 手动触发和推送触发
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["main"]}
-
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
     permissions:
-      contents: write  # 必须有写入权限来提交文件
-    
+      contents: write
     steps:
-      - name: GitHub Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          # 使用 GitHub 自动提供的 token（无需额外配置）
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
-          # GitHub 用户名
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
           user: seasameye
-          
-          # 模板选择
           template: classic
-          
-          # 显示的内容模块
           base: header, activity, community, repositories, metadata
-          
-          # 时区设置
           config_timezone: Asia/Shanghai
-          
-          # 可选：添加插件增强显示
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_habits: yes
-          plugin_lines: yes
-          
-          # 可选：隐藏边框
-          hide_border: true
-          
-          # 可选：设置背景色（透明背景适合深色主题）
-          # background_color: transparent
