@@ -5,11 +5,9 @@
 I’m passionate about experiencing new things, learning cutting-edge knowledge, and enjoying life🐈. 
 Here’s a bit about me🗒️:
 
-- 🔭 I’m currently a CS student at Sichuan University.
-- 📚 My research focuses on time series.
 - 💛 I’m currently working on understanding machine learning, large language models (LLMs), backend development and big data.
 
-Although I’m still improving my coding skills, I’m always striving to become a better learner and keep growing!
+- 📑 Although I’m still improving my coding skills, I’m always striving to become a better learner and keep growing!
 
 ---
 
