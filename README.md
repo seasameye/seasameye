@@ -7,7 +7,7 @@ Here’s a bit about me🗒️:
 
 - 💛 I’m currently working on understanding new technique.
 
-- 📑 Although I’m still improving my skills, I’m always striving to become a better learner and keep growing!
+- 📑 Although I’m still improving my skills, I’m always striving to become a better people and keep growing!
 
 ---
 
