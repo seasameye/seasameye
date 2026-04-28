@@ -3,10 +3,6 @@
 <img width="30%" align="right" alt="Github" src="https://github.com/seasameye/seasameye/blob/main/%E7%8C%AB%E5%92%AA.png" />
 
 I’m passionate about experiencing new things, learning cutting-edge knowledge, and enjoying life🐈. 
-Here’s a bit about me🗒️:
-
-- 💛 I’m currently working on understanding new technique.
-
 - 📑 Although I’m still improving my skills, I’m always striving to become a better person and keep growing!
 
 ---
