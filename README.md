@@ -2,7 +2,7 @@
 
 <img width="30%" align="right" alt="Github" src="https://github.com/seasameye/seasameye/blob/main/%E7%8C%AB%E5%92%AA.png" />
 
-I’m passionate about experiencing new things, learning cutting-edge knowledge, and enjoying life🐈. 
+I’m passionate about experiencing new things and learning cutting-edge knowledge🐈. 
 - 📑 Although I’m still improving my skills, I’m always striving to become a better person and keep growing!
 
 ---
@@ -31,11 +31,3 @@ I’m passionate about experiencing new things, learning cutting-edge knowledge,
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seasameye/seasameye/output/github-contribution-grid-snake.svg">
 </picture>
 
-
----
-
-### 📍 Let’s Connect
-
-Feel free to reach out to me for any collaboration or chat!
-
-- 📧 [Email](mailto:2451896412@qq.com)
