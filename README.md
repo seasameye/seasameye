@@ -13,15 +13,6 @@ I’m passionate about experiencing new things and learning cutting-edge knowled
   <img src="/github-metrics.svg" width="600"/>
 </div>
 
----
-
-### 📊 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seasameye&theme=github&bg_color=ffffff&color=24292e&line=0366d6&point=24292e&area=true&hide_border=true" alt="GitHub Activity Graph" width="800"/>
-</div>
-
----
 
 ### 🐍 GitHub Contribution Snake
 
